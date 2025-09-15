@@ -8,6 +8,7 @@ Sebuah skrip Python sederhana untuk mengontrol objek di dalam simulasi CoppeliaS
 *Read this in other languages: [English](#english-version)*
 
 ---
+![Demonstrasi Simulasi Billiard](https://github.com/zolpew/Simulasi_Billiard/SRO_ANIMATION_VIDEO_GITHUB.gif?raw=true)
 
 ## 📜 Deskripsi
 
