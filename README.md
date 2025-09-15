@@ -54,7 +54,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 2.  **Identifikasi Objek**: Pastikan Anda tahu nama path objek target. Secara default, skrip ini menargetkan objek bernama `/Sphere[6]`.
 3.  **Jalankan Skrip Python**: Buka terminal atau Command Prompt, arahkan ke direktori tempat Anda menyimpan file `.py`, lalu jalankan:
     ```bash
-    python nama_skrip_anda.py
+    Tugas_SRO_Simulalsi_Pool_Table.py
     ```
 4.  **Masukkan Nilai**: Terminal akan meminta Anda untuk memasukkan nilai untuk setiap komponen gaya (Fx, Fy, Fz) dan torsi (Tx, Ty, Tz).
     ```
