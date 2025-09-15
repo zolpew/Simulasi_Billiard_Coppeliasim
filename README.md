@@ -15,7 +15,7 @@ Proyek ini menggunakan ZMQ Remote API dari CoppeliaSim untuk menjembatani skrip 
 
 Ini sangat berguna untuk melakukan *prototyping*, pengujian, atau sekadar bereksperimen dengan fisika simulasi secara dinamis.
 
-![Contoh Penggunaan Skrip di Terminal dan Hasilnya di CoppeliaSim](https://i.imgur.com/uR1dOJG.gif)
+![Contoh Penggunaan Skrip di Terminal dan Hasilnya di CoppeliaSim]
 
 ## ✨ Fitur Utama
 
