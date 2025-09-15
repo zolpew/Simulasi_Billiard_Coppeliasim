@@ -8,8 +8,7 @@ Sebuah skrip Python sederhana untuk mengontrol objek di dalam simulasi CoppeliaS
 *Read this in other languages: [English](#english-version)*
 
 ---
-![Demonstrasi Simulasi Billiard]([https://github.com/zolpew/Simulasi_Billiard/SRO_ANIMATION_VIDEO_GITHUB.gif](https://github.com/zolpew/Simulasi_Billiard_Coppeliasim/blob/main/SRO_ANIMATION_VIDEO_GITHUB.gif))
-
+![Demonstrasi Simulasi Billiard](https://github.com/zolpew/Simulasi_Billiard_Coppeliasim/blob/main/SRO_ANIMATION_VIDEO_GITHUB.gif?raw=true)
 ## 📜 Deskripsi
 
 Proyek ini menggunakan ZMQ Remote API dari CoppeliaSim untuk menjembatani skrip Python dengan *scene* simulasi yang sedang berjalan. Skrip ini menyediakan antarmuka baris perintah (CLI) yang meminta pengguna untuk memasukkan komponen X, Y, dan Z untuk gaya dan torsi. Nilai-nilai ini kemudian langsung diterapkan pada objek yang telah ditentukan di dalam simulasi.
